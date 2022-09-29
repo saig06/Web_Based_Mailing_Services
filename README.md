@@ -1,6 +1,11 @@
 # Web_Based_Mailing_Services
 
 
+## **Problem Statement :**
+
+To establish a Local Area Network with DHCP, DNS, FTP, Mail and Web Servers and observe the working.
+
+
 ## **Steps involved :**
   - Add two PCs, two Switches and five Servers(DHCP, DNS, Web Server, FTP Server, Mail Server). Connect them all physically using a wire and wait fot them to establish the connectivity.
   - Assign IPs to all the servers. Assign Gmail IDs to both the PCs.
