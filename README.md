@@ -41,7 +41,7 @@ To establish a Local Area Network with DHCP, DNS, FTP, Mail and Web Servers and 
 **Composing Mail :**
 
 
-![](Images/3.png)
+![](Images/3CM.png)
 
 
 **Sent successfully :**
